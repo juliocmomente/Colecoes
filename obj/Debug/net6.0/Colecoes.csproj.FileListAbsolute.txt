@@ -1,0 +1,15 @@
+/home/julio/Coding/C#/Colecoes/bin/Debug/net6.0/Colecoes
+/home/julio/Coding/C#/Colecoes/bin/Debug/net6.0/Colecoes.deps.json
+/home/julio/Coding/C#/Colecoes/bin/Debug/net6.0/Colecoes.runtimeconfig.json
+/home/julio/Coding/C#/Colecoes/bin/Debug/net6.0/Colecoes.dll
+/home/julio/Coding/C#/Colecoes/bin/Debug/net6.0/ref/Colecoes.dll
+/home/julio/Coding/C#/Colecoes/bin/Debug/net6.0/Colecoes.pdb
+/home/julio/Coding/C#/Colecoes/obj/Debug/net6.0/Colecoes.csproj.AssemblyReference.cache
+/home/julio/Coding/C#/Colecoes/obj/Debug/net6.0/Colecoes.GeneratedMSBuildEditorConfig.editorconfig
+/home/julio/Coding/C#/Colecoes/obj/Debug/net6.0/Colecoes.AssemblyInfoInputs.cache
+/home/julio/Coding/C#/Colecoes/obj/Debug/net6.0/Colecoes.AssemblyInfo.cs
+/home/julio/Coding/C#/Colecoes/obj/Debug/net6.0/Colecoes.csproj.CoreCompileInputs.cache
+/home/julio/Coding/C#/Colecoes/obj/Debug/net6.0/Colecoes.dll
+/home/julio/Coding/C#/Colecoes/obj/Debug/net6.0/ref/Colecoes.dll
+/home/julio/Coding/C#/Colecoes/obj/Debug/net6.0/Colecoes.pdb
+/home/julio/Coding/C#/Colecoes/obj/Debug/net6.0/Colecoes.genruntimeconfig.cache
